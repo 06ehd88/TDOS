@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/tdos/canonical-signal.schema.json",
+  "title": "TDOS Canonical Signal",
+  "description": "PLACEHOLDER. Authoring is blocked until CSC v1.0 reaches approved semantic completeness.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {},
+  "required": []
+}
